@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e333f099-8301-4f55-b4c3-22c18627e8d7" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Codeforces/.cph/.B_Recursive_Queries.cpp_ba3a77caa78f9ea346de37035c375cca.prob" afterDir="false" />
@@ -12,6 +15,10 @@
       <change beforePath="$PROJECT_DIR$/../B.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../B.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../C.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../C.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../C.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../C.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Conditional-loops/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-Conditional-loops/Switch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../in.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../out.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../soln.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../soln.cpp" afterDir="false" />
@@ -23,10 +30,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FAaV7EUuIehFEUbTKM6Y7UI0E6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,7 +47,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/R/Desktop/CP/Java_DSA_With_KKP/Day_001"
+    "last_opened_file_path": "C:/Users/R/Desktop/CP/Java_DSA_With_KKP",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
